@@ -16,4 +16,4 @@ echo Installing
 curl https://raw.githubusercontent.com/altshita/project1/main/install/install-main.sh | sh
 
 # 
-echo Finished installing
+echo Finished installing. (code: $0)
