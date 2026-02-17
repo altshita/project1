@@ -9,3 +9,4 @@
 # install file
 
 echo Installing
+echo Running $0
