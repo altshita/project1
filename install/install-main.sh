@@ -8,5 +8,5 @@
 
 # install file
 
-echo Installing
-echo Running $0
+echo Installing 123
+echo Running 123
