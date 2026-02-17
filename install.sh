@@ -3,7 +3,7 @@
 # 
 # how to use this install script:
 #
-# curl https://raw.githubusercontent.com/wbogie/project1/main/install.sh | sh
+# curl https://raw.githubusercontent.com/altshita/project1/main/install.sh | sh
 #
 
 # install file
