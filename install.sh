@@ -13,7 +13,7 @@ echo Installing
 #
 # running main installation in separate shell
 # 
-curl https://raw.githubusercontent.com/altshita/project1/main/install-main.sh | sh
+curl https://raw.githubusercontent.com/altshita/project1/main/install/install-main.sh | sh
 
 # 
 echo Finished installing
