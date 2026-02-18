@@ -8,7 +8,7 @@
 
 # install file
 
-echo Installing
+echo Start installing 
 
 #
 # running main installation in separate shell
@@ -16,4 +16,4 @@ echo Installing
 curl https://raw.githubusercontent.com/altshita/project1/main/install/install-main.sh | sh
 
 # 
-echo Finished installing. Code: $0
+echo Finished installing
